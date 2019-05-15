@@ -1,3 +1,7 @@
+[![dependencies Status](hhttps://david-dm.org/Ongbook/dashboard-admin./status.svg)](https://david-dm.org/Ongbook/dashboard-admin)
+[![NodeJS](https://img.shields.io/badge/node-v10.11.0-brightgreen.svg)](#prerequisites)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
 # SB Admin rewritten in Angular7 and Bootstrap 4
 
 Simple Dashboard Admin App built using Angular 7 and Bootstrap 4
